@@ -1,19 +1,23 @@
 h1	{
 	color:#2843E9;
 	font-family: Impact, Charcoal, sans-serif;
+	text-align: center;
 }
 
 h2	{
 	color:#2843E9;
 	font-family: Impact, Charcoal, sans-serif;
+	text-align: center;
 }
 
 p	{
-	margin-right: 600px;
 	font-family: Impact, Charcoal, sans-serif;
+	font-size: 18px;
+	text-align: center;
 }
 h3	{
 	font-family: Impact, Charcoal, sans-serif;
+	text-align: center;
 }
 
 .greencolor {
@@ -30,4 +34,14 @@ h3	{
 
 .bluecolor {
 	color:#48DFF1;
+}
+
+.wrapper {
+	margin:0 auto;
+	background-color: #1F0D25;
+	width:60%;
+}
+
+body	{
+	background-color: black;
 }
