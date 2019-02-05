@@ -26,3 +26,19 @@ p	{
 	font-size: 20px;
 	color: #3F1010;
 }
+
+a:link	{
+	color:purple;
+}
+
+a:visited	{
+	color:red;
+}
+
+a:hover	{
+	color:green;
+}
+
+a:active	{
+	color:blue;
+}
