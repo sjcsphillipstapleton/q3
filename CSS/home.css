@@ -1,0 +1,45 @@
+.wrapper {
+	width:65%;
+	margin: 0 auto;
+	background-color: teal;
+}
+img	{
+	height: 300px;
+	width: 300px;
+	border: solid black 20px;
+}
+body	{
+	text-align: center;
+	background-color: #31B317;
+}
+h1	{
+	color: #38DCF6;
+	font-size:30px;
+	font-style:italic;
+}
+
+h2	{
+	color: #E16480;
+	font-size: 26px;
+}
+p	{
+	font-size: 20px;
+	color: #3F1010;
+}
+
+a:link	{
+	color:purple;
+}
+
+a:visited	{
+	color:red;
+}
+
+a:hover	{
+	color:green;
+	font-size: 62px;
+}
+
+a:active	{
+	color:blue;
+}
