@@ -42,3 +42,27 @@ img	{
 	height:250px;
 	border-style: solid;
 }
+
+a {
+	text-align: center;
+	border:2px red solid;
+	padding: 10px;
+	margin: 10px;
+	background-color: #0F6C7E;
+}
+
+a:link	{
+	color:#38DCF6;
+}
+
+a:visited	{
+	color:#F12525;
+}
+
+a:hover	{
+	color:#31E429;
+}
+
+a:active	{
+	color:#292FE4;
+}
