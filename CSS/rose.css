@@ -1,19 +1,20 @@
 body	{
-	font-size: 20px;
+	font-size: 24px;
 }
 
 h1	{
-	font-size: 60px;
+	font-size: 58px;
 	text-align: center;
 }
 
 h2	{
-	font-size: 40px;
-	margin-left: 10px;
+	font-size: 44px;
+	text-align: center;
+
 }
 
 h3	{
-	font-size: 30px;
+	font-size: 32px;
 	font-style: italic;
 }
 
@@ -26,9 +27,9 @@ p	{
 }
 
 img	{
-	border: 5px black solid;
+	border: 5px gray solid;
 	margin: 10px;
-	width:300px;
+	width:200px;
 }
 
 .cleared	{
@@ -36,7 +37,7 @@ img	{
 }
 
 section	{
-	background-color: red;
+	background-color: #A4D4E8;
 	padding: 10px;
 	margin-bottom: 10px;
 }
@@ -46,11 +47,11 @@ section	{
 	margin: 0 auto;
 	border: 5px black solid;
 	padding: 10px;
-	background-color: #b3995d;
+	background-color: #D72A86;
 }
 
 footer	{
-	background-color: #AA0000;
+	background-color: #A2B98E;
 	text-align:center;
 	color: white;
 }
