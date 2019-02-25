@@ -53,8 +53,21 @@ footer	{
 	background-color: #AA0000;
 	text-align:center;
 	color: white;
+	width: 80%;
+	margin: 0 auto;
+	padding: 15px;
 }
 
 .floatr {
 	float: right;
+}
+
+.colr{
+	float: right;
+	width: 45%;
+}
+
+.coll	{
+	float: left;
+	width: 45%;
 }
